@@ -1,0 +1,2 @@
+# zerokara
+WordPress テーマ「zerokara」
